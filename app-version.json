@@ -1,5 +1,5 @@
 {
-  "version": "0.7.4",
-  "downloadUrl": "https://github.com/gokdeniz522-alt/Hubify/releases/download/app/Hubify_0.7.4_x64-setup.exe",
-  "notes": ""
+  "version": "0.7.5",
+  "downloadUrl": "https://github.com/gokdeniz522-alt/Hubify/releases/download/app/Hubify_0.7.5_x64-setup.exe",
+  "notes": "Bulut kayıt kaynağı gokdeniz522-alt/SteamCloudRedirect (v2.7.0) oldu: cloud_redirect.dll güncel Steam build'lerinde (1792618285) yeniden çalışıyor. dll/exe artık en son sürümü otomatik bulup SHA-256 ile doğruluyor."
 }
