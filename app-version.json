@@ -1,5 +1,5 @@
 {
-  "version": "0.7.6",
-  "downloadUrl": "https://github.com/gokdeniz522-alt/Hubify/releases/download/app/Hubify_0.7.6_x64-setup.exe",
+  "version": "0.7.7",
+  "downloadUrl": "https://github.com/gokdeniz522-alt/Hubify/releases/download/app/Hubify_0.7.7_x64-setup.exe",
   "notes": "Yeni özellikler ve iyileştirmeler. Bulut kayıt tarafı CloudRedirect v2.7.0 (gokdeniz522-alt/SteamCloudRedirect) kaynağını kullanıyor."
 }
